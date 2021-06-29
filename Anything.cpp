@@ -5,4 +5,5 @@ int main(){
   std::cout << "BEANS\n";
   std::cout << "Pizza\n\n";
   std::cout << "Thank you";
+  std::cout << "Done changes";   
 }
